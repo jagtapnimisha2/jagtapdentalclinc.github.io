@@ -737,3 +737,21 @@
     background:green;
   }
 /* contact from data css end my */
+
+
+/* only circles  */
+
+@media (max-width: 575.98px) {
+    .about-fact {
+        margin-left: auto !important;
+        margin-right: auto !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .mt-n130 {
+        margin-top: 0 !important;
+    }
+}
